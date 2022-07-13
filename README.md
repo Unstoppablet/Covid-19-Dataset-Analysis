@@ -37,6 +37,6 @@ I was taking to 'Power Query Editor', an extension environment of MS Excel, a pl
 
 ---
 
-#Data Cleaning/Transformation
+# Data Cleaning/Transformation
 
-Now moving to the real deal, #Data Transformation. Here is where all the cleaning of my dataset will be done.
+Now moving to the real deal, # Data Transformation. Here is where all the cleaning of my dataset will be done.

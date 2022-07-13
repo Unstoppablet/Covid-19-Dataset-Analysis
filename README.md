@@ -27,8 +27,16 @@ So, after viewing it, I copy the whole link as seen below;
 After copying the link, I headed to my Excel 365 to import my scraped data as seen below;
 
 <img width="399" alt="Capture2" src="https://user-images.githubusercontent.com/88210780/178510221-9119f5bc-5767-4047-8a50-4be110d572da.PNG">
+
+Then,
+
 <img width="503" alt="Capture3" src="https://user-images.githubusercontent.com/88210780/178510287-47970e00-d602-4fb0-9f83-de4375446a4b.PNG">
 
 Then boom!
 I was taking to 'Power Query Editor', an extension environment of MS Excel, a place where #Data_Transformation takes place. 
 
+---
+
+#Data Cleaning/Transformation
+
+Now moving to the real deal, #Data Transformation. Here is where all the cleaning of my dataset will be done.

@@ -1,6 +1,11 @@
 # Covid-19-Dataset-Analysis with Excel
 This is my first analysis as a data analyst (in view), with dashboard visualization.
 ---
+## Table of Contents
+
+- Introduction
+- Problem Statement
+-  
 # Problem Statement
 The aim, objective and purpose of this project on Covid-19 is to create awareness, insights and information concerning Covid-19. 
 This project will be visualizing the impact and havoc it has caused in the whole of the world. This includes different cases from the confirmed cases to the death cases, to the rate and the recovered cases of people with Covid-19.

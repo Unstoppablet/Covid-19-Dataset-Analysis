@@ -3,8 +3,8 @@ This is my first analysis as a data analyst (in view), with dashboard visualizat
 ---
 ## Table of Contents
 
-- Introduction
-- Problem Statement
+- [Introduction] (#Introduction)
+- [Problem Statement] (#Problem Statement)
 -  
 # Problem Statement
 The aim, objective and purpose of this project on Covid-19 is to create awareness, insights and information concerning Covid-19. 

@@ -3,13 +3,13 @@ This is my first analysis as a data analyst (in view), with dashboard visualizat
 ---
 ## Table of Contents
 
-- [Introduction] (#introduction)
-- [Problem Statement] (#problem-statement)
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
 
 
-# Introduction
+## Introduction
 
-# Problem Statement
+## Problem Statement
 The aim, objective and purpose of this project on Covid-19 is to create awareness, insights and information concerning Covid-19. 
 This project will be visualizing the impact and havoc it has caused in the whole of the world. This includes different cases from the confirmed cases to the death cases, to the rate and the recovered cases of people with Covid-19.
 It wil be visualizing top 5 countries with covid-19 prevalence, bottom 5 countries with covid-19 prevalence, top 5 countries with the highest number of people that has recovered from the so called covid-19, with top 5 countries that have highest death rate.
@@ -17,7 +17,7 @@ The objective of this project is to find out how COVID-19 has really affected co
 
 ---
 
-#Data Sourcing
+## Data Sourcing
 I got the Covid-19 dataset through 'web scraping' on GitHub. There is a feature on Excel that allow you to import your dataset from 'The Web', the term is called 'scraping', when you scrap a dataset from a source you literally just 'collect' the dataset, rather than just downloading the dataset to your local machine(laptop).
 
 <img width="867" alt="Capture" src="https://user-images.githubusercontent.com/88210780/178150472-7f2d4976-e324-4deb-befd-d7953c8ac173.PNG">
@@ -45,6 +45,6 @@ I was taking to 'Power Query Editor', an extension environment of MS Excel, a pl
 
 ---
 
-# Data Cleaning/Transformation
+## Data Cleaning/Transformation
 
 Now moving to the real deal, # Data Transformation. Here is where all the cleaning of my dataset will be done.

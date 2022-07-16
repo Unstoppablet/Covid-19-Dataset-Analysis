@@ -5,9 +5,12 @@ This is my first analysis as a data analyst (in view), with dashboard visualizat
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
+- [Data Source](#data-source)
+- [Data Transformation](#data-transformation)
 
 
 ## Introduction
+The COVID-19 pandemic was first identified from an outbreak in Wuhan, China, in 2019. As of 15 July 2022, the pandemic had caused more than 560 million cases and 6.36 million confirmed deaths. It is one of the deadliest in history.
 
 ## Problem Statement
 The aim, objective and purpose of this project on Covid-19 is to create awareness, insights and information concerning Covid-19. 
@@ -45,6 +48,26 @@ I was taking to 'Power Query Editor', an extension environment of MS Excel, a pl
 
 ---
 
-## Data Cleaning/Transformation
+## Data Transformation
 
-Now moving to the real deal, # Data Transformation. Here is where all the cleaning of my dataset will be done.
+Now moving to the real deal, "Data Transformation". Here is where all the cleaning of my dataset will be done.
+
+<img width="956" alt="transform1" src="https://user-images.githubusercontent.com/88210780/179328410-86029dc2-ab49-46b2-b3b2-4ad2fc643505.PNG">
+
+# The steps to transform or clean this dataset and be turned to a work-able data is as follows;
+- Firstly, goto "Source" and remove "Columns=* * * ", this literally turns the whole dataset into "automatic update", meaning that each time there are new cases, your dataset will be automatically updated.
+<img width="725" alt="transform2" src="https://user-images.githubusercontent.com/88210780/179328823-3c867cf4-11a9-49b9-834b-0c3738beddf7.PNG">
+
+- Then, "Use First Row as Headers". This will upgrade the first row of the table to the header of the table.
+<img width="509" alt="transform3" src="https://user-images.githubusercontent.com/88210780/179329196-90162560-62a4-4ec2-a490-c088eb157f7a.PNG">
+<img width="625" alt="transform4" src="https://user-images.githubusercontent.com/88210780/179329276-ef5f2581-1941-4590-95bb-a503b68c1592.PNG">
+
+- Select the first '4' columns and unpivot other columns so that I can be left with only the necessary few columns needed.
+![Hold down 'ctrl' key and choose the first 4 columns, then 'right-click' and pick Unpivot Other Columns](https://user-images.githubusercontent.com/88210780/179334052-5ac11d3f-e6ad-40f2-a9d7-95897685676c.png)
+
+- Rename the new created column(Attribute & Value) 
+![Hold down 'ctrl' key and choose the first 4 columns, then 'right-click' and pick Unpivot Other Columns](https://user-images.githubusercontent.com/88210780/179372026-fffb9d18-4d67-4d6a-bff6-4cac251b6781.png)
+<img width="625" alt="transform6" src="https://user-images.githubusercontent.com/88210780/179372046-1c1fd5fb-bce3-43ac-af3c-af4e73c43717.PNG">
+
+- 
+

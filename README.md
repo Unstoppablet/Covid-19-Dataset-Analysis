@@ -5,8 +5,11 @@ This is my first analysis as a data analyst (in view), with dashboard visualizat
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
-- [Data Source](#data-source)
+- [Data Sourcing](#data-sourcing)
 - [Data Transformation](#data-transformation)
+- [Data Visualization](#data-visualization)
+- [Findings](#findings)
+
 
 
 ## Introduction
@@ -69,5 +72,41 @@ Now moving to the real deal, "Data Transformation". Here is where all the cleani
 ![Hold down 'ctrl' key and choose the first 4 columns, then 'right-click' and pick Unpivot Other Columns](https://user-images.githubusercontent.com/88210780/179372026-fffb9d18-4d67-4d6a-bff6-4cac251b6781.png)
 <img width="625" alt="transform6" src="https://user-images.githubusercontent.com/88210780/179372046-1c1fd5fb-bce3-43ac-af3c-af4e73c43717.PNG">
 
-- 
+- Rename the first query Confirmed Cases' and "Duplicate it"
+![Screenshot (40)](https://user-images.githubusercontent.com/88210780/179406019-7c20494c-7071-4212-9f00-ab002d15b92b.png)
+<img width="400" alt="transform7" src="https://user-images.githubusercontent.com/88210780/179406032-5a32232d-d3c8-4150-996e-c9b606f7451e.PNG">
+
+- Go back to the GitHub repository and copy the 'Raw' for "Death Global", go to Power Query and navigate to the 'settings icon' at the front of "Source" then change the source link their to the new one copied for 'Death Cases' as shown below.
+
+<img width="946" alt="transform8" src="https://user-images.githubusercontent.com/88210780/179407152-573175f4-091d-4f73-850f-842dfde842a5.PNG">
+
+- Repeat the same step for "Recovered Global Cases", and the result be as the one shown below:
+
+- Then, we gonna merge the 3 tables together. You will goto the 'confirmed cases' table and choose "Merge Queries as New"
+<img width="175" alt="merge" src="https://user-images.githubusercontent.com/88210780/179409135-805c67c9-92b8-4c4d-99ec-5091e52d2b62.PNG">
+<img width="504" alt="merge2" src="https://user-images.githubusercontent.com/88210780/179418721-56db815e-8846-40dc-ae6c-2c19d1768659.PNG">
+
+- After all the transformation, the end cleaned data looks like this:
+<img width="960" alt="transform9" src="https://user-images.githubusercontent.com/88210780/179418731-8a3d87c4-6002-4370-9203-674b8babbbae.PNG">
+
+Without getting you bored with all this story, this is the process needed in traforming your data. Yes, you can continue cleaning and transforming your data even more that I did to mine.
+Now, we move to "Visualization"
+
+---
+
+## Data Visualization
+
+This is simply the act of combining series of 'pivot charts' together and creating different 'pivot charts' with them.
+Pivot charts are the visual representation of your datasets. It interprets what the data is saying clearer and expressively.
+After merging and joining different pivot tables and pivot charts together, this is the end product of my analysis.
+
+![Picture17](https://user-images.githubusercontent.com/88210780/179419009-9c732c76-d498-470c-9ca3-a7ce0b52fa8a.png)
+
+Yes, there is more I can still put into consideration, but for a starter I just need to stop here for now, lol.
+
+---
+
+## Findings
+
+
 

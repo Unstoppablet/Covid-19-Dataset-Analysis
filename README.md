@@ -112,5 +112,8 @@ Yes, there is more I can still put into consideration, but for a starter I just 
 
 ## Findings
 
-
+It was observed that this covid-19 in question has taken a whole lot of lives worldwide, but due to healthcare intervention through the vaccines that was initialized, the virus has been recovered from adequately.
+With the proper and adequate administration of these vaccines, the virus will be curb to the core and it's effectiveness will be reduced the most minimal occurence.
+I hope you have learned one or two things from this analysis. Please contributions are gladly welcolmed.
+Thank you for your time.
 

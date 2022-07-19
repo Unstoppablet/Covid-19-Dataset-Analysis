@@ -1,4 +1,8 @@
 # Covid-19-Dataset-Analysis with Excel
+
+![Hold down 'ctrl' key and choose the first 4 columns, then 'right-click' and pick Unpivot Other Columns (2)](https://user-images.githubusercontent.com/88210780/179658254-ce6cbfd5-25cc-48d8-a36b-9bd85a8874ff.png)
+
+
 This is my first analysis as a data analyst (in view), with dashboard visualization.
 ---
 ## Table of Contents
